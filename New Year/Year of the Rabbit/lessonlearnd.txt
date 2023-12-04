@@ -1,0 +1,3 @@
+Check if the site have a redirect because most of them who has javascript enable use a redirect.
+use Strings to fatch inside stored in image. 
+hydra for brute force. hydra -L (username or username List for a brute force) -P (passowrd or password list for brute force) (ip-address for the opfer) (port or protocol like ftp)
